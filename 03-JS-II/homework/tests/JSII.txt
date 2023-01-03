@@ -1,0 +1,8 @@
+for - es un condicional o bloque de codigo que se repite en bucles dependiendo de la condicion
+que puede ser bucles por elemento de arrays o por un indice que se va modificando con cada iteracion
+
+&& - es el operador logico que une enunciados con la finalidad de usarse como condiciones.
+
+|| - operador logico and  que forma enunciados logicos que son true o false.
+
+! - operador logico que niega algun argumento sobre el cual se utilice. 

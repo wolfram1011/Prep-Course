@@ -1,0 +1,2 @@
+Arrays - son un conjunto de elementos que se juntan bajo el objeto de array, el cual 
+lleva un nombre por cada array.
