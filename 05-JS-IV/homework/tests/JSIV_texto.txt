@@ -1,0 +1,11 @@
+Objetos - Son bloques de codigo que contienen variables del bloque y el codigo que se ejecuta
+se puede reciclar en diferentes ocaciones nombreando diferente cada enunciado.
+
+Propiedades - Son los nombres de cada variable dentro del objeto y pueden ser desde strings hasta funciones.
+
+
+Métodos - Son propiedades que específicamente son funciones.
+
+Bucle for in - Es un bucle for especifico para arrays enunciando cada uno de sus elementos.
+
+Notación de puntos vs notacion de corchetes - el punto es mas corto pero no acepta varaibles como los corchetes.
