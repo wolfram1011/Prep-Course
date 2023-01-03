@@ -1,0 +1,10 @@
+Variables - nombre que representa un valor que puedes cambiar con ciertas restricciones.
+
+Strings - variable que tiene formato de texto o palabras.
+
+funciones - son bloques de codigo que se ejecutan al nombrar la funcion y tiene argumentos
+que te permiten ingresar variables y objetos al bloque de codigo por ejemplo : el texto 'return'.
+
+declaraciones - Son bloques de codigo que se ejecutan al cumplir la condición específicada
+
+booleanos - son variables que representan el valor logico de cierto o falso pero no ambos.
