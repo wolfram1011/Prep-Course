@@ -1,0 +1,4 @@
+prototype - permite añadir elementos al constructor de un objeto.
+
+Constructors - Permite ver el contructor de un objeto, haciendo referencia al mismo.
+
