@@ -67,3 +67,10 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-items: center;
     justify-content: flex-end;
 }
+#elementouno{
+    align-self:flex-end;
+}
+
+#elementocuatro{
+    align-self:flex-start;
+}
